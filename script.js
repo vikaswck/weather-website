@@ -41,4 +41,4 @@
   }
 
  });
- weather.fetchWeather("Denver");
+ weather.fetchWeather("Ajmer");
